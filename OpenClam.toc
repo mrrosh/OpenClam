@@ -1,4 +1,4 @@
-## Interface: 11000
+## Interface: 11200
 ## Title: OpenClam (v0.7)
 ## Title-frFR: OuvrePalourde (v0.7)
 ## Title-deDE: Muschel\195\150ffner (v0.7)
